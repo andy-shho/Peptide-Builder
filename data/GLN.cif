@@ -1,0 +1,144 @@
+data_GLN
+# 
+_chem_comp.id                                    GLN 
+_chem_comp.name                                  GLUTAMINE 
+_chem_comp.type                                  "L-PEPTIDE LINKING" 
+_chem_comp.pdbx_type                             ATOMP 
+_chem_comp.formula                               "C5 H10 N2 O3" 
+_chem_comp.mon_nstd_parent_comp_id               ? 
+_chem_comp.pdbx_synonyms                         ? 
+_chem_comp.pdbx_formal_charge                    0 
+_chem_comp.pdbx_initial_date                     1999-07-08 
+_chem_comp.pdbx_modified_date                    2024-09-27 
+_chem_comp.pdbx_ambiguous_flag                   N 
+_chem_comp.pdbx_release_status                   REL 
+_chem_comp.pdbx_replaced_by                      ? 
+_chem_comp.pdbx_replaces                         ? 
+_chem_comp.formula_weight                        146.144 
+_chem_comp.one_letter_code                       Q 
+_chem_comp.three_letter_code                     GLN 
+_chem_comp.pdbx_model_coordinates_details        ? 
+_chem_comp.pdbx_model_coordinates_missing_flag   N 
+_chem_comp.pdbx_ideal_coordinates_details        ? 
+_chem_comp.pdbx_ideal_coordinates_missing_flag   N 
+_chem_comp.pdbx_model_coordinates_db_code        ? 
+_chem_comp.pdbx_subcomponent_list                ? 
+_chem_comp.pdbx_processing_site                  EBI 
+_chem_comp.pdbx_pcm                              Y 
+# 
+loop_
+_chem_comp_atom.comp_id 
+_chem_comp_atom.atom_id 
+_chem_comp_atom.alt_atom_id 
+_chem_comp_atom.type_symbol 
+_chem_comp_atom.charge 
+_chem_comp_atom.pdbx_align 
+_chem_comp_atom.pdbx_aromatic_flag 
+_chem_comp_atom.pdbx_leaving_atom_flag 
+_chem_comp_atom.pdbx_stereo_config 
+_chem_comp_atom.pdbx_backbone_atom_flag 
+_chem_comp_atom.pdbx_n_terminal_atom_flag 
+_chem_comp_atom.pdbx_c_terminal_atom_flag 
+_chem_comp_atom.model_Cartn_x 
+_chem_comp_atom.model_Cartn_y 
+_chem_comp_atom.model_Cartn_z 
+_chem_comp_atom.pdbx_model_Cartn_x_ideal 
+_chem_comp_atom.pdbx_model_Cartn_y_ideal 
+_chem_comp_atom.pdbx_model_Cartn_z_ideal 
+_chem_comp_atom.pdbx_component_atom_id 
+_chem_comp_atom.pdbx_component_comp_id 
+_chem_comp_atom.pdbx_ordinal 
+GLN N N N 0 1 N N N Y Y N 0.03345 1.88559 1.08778 0.03345 1.88559 1.08778 N GLN 1
+GLN CA CA C 0 1 N N S Y N N 0.52260 0.50068 1.08778 0.52260 0.50068 1.08778 CA GLN 2
+GLN C C C 0 1 N N N Y N Y 2.02887 0.50068 1.08778 2.02887 0.50068 1.08778 C GLN 3
+GLN O O O 0 1 N N N Y N Y 2.63311 1.40575 0.56510 2.63311 1.40575 0.56510 O GLN 4
+GLN CB CB C 0 1 N N N N N N 0.01124 -0.22007 -0.15976 0.01124 -0.22007 -0.15976 CB GLN 5
+GLN CG CG C 0 1 N N N N N N -1.51718 -0.21860 -0.16042 -1.51718 -0.21860 -0.16042 CG GLN 6
+GLN CD CD C 0 1 N N N N N N -2.02130 -0.92900 -1.38966 -2.02130 -0.92900 -1.38966 CD GLN 7
+GLN OE1 OE1 O 0 1 N N N N N N -1.23378 -1.39028 -2.18751 -1.23378 -1.39028 -2.18751 OE1 GLN 8
+GLN NE2 NE2 N 0 1 N N N N N N -3.34566 -1.05144 -1.60363 -3.34566 -1.05144 -1.60363 NE2 GLN 9
+GLN OXT OXT O 0 1 N Y N Y N Y 2.69964 -0.50685 1.66885 2.69964 -0.50685 1.66885 OXT GLN 10
+GLN H H H 0 1 N N N Y Y N 0.39256 2.32015 0.25173 0.39256 2.32015 0.25173 H GLN 11
+GLN H2 HN2 H 0 1 N Y N Y Y N -0.96872 1.84000 0.98268 -0.96872 1.84000 0.98268 H2 GLN 12
+GLN HA HA H 0 1 N N N Y N N 0.15867 -0.01249 1.97746 0.15867 -0.01249 1.97746 HA GLN 13
+GLN HB2 1HB H 0 1 N N N N N N 0.37545 0.29363 -1.05023 0.37545 0.29363 -1.05023 HB2 GLN 14
+GLN HB3 2HB H 0 1 N N N N N N 0.37484 -1.24722 -0.15980 0.37484 -1.24722 -0.15980 HB3 GLN 15
+GLN HG2 1HG H 0 1 N N N N N N -1.88139 -0.73230 0.73006 -1.88139 -0.73230 0.73006 HG2 GLN 16
+GLN HG3 2HG H 0 1 N N N N N N -1.87995 0.80885 -0.15988 -1.87995 0.80885 -0.15988 HG3 GLN 17
+GLN HE21 1HE2 H 0 0 N N N N N N -3.67044 -1.50829 -2.39449 -3.67044 -1.50829 -2.39449 HE21 GLN 18
+GLN HE22 2HE2 H 0 0 N N N N N N -3.97586 -0.68163 -0.96513 -3.97586 -0.68163 -0.96513 HE22 GLN 19
+GLN HXT HXT H 0 1 N Y N Y N Y 3.66689 -0.50751 1.66901 3.66689 -0.50751 1.66901 HXT GLN 20
+# 
+loop_
+_chem_comp_bond.comp_id 
+_chem_comp_bond.atom_id_1 
+_chem_comp_bond.atom_id_2 
+_chem_comp_bond.value_order 
+_chem_comp_bond.pdbx_aromatic_flag 
+_chem_comp_bond.pdbx_stereo_config 
+_chem_comp_bond.pdbx_ordinal 
+GLN N   CA   SING N N 1  
+GLN N   H    SING N N 2  
+GLN N   H2   SING N N 3  
+GLN CA  C    SING N N 4  
+GLN CA  CB   SING N N 5  
+GLN CA  HA   SING N N 6  
+GLN C   O    DOUB N N 7  
+GLN C   OXT  SING N N 8  
+GLN CB  CG   SING N N 9  
+GLN CB  HB2  SING N N 10 
+GLN CB  HB3  SING N N 11 
+GLN CG  CD   SING N N 12 
+GLN CG  HG2  SING N N 13 
+GLN CG  HG3  SING N N 14 
+GLN CD  OE1  DOUB N N 15 
+GLN CD  NE2  SING N N 16 
+GLN NE2 HE21 SING N N 17 
+GLN NE2 HE22 SING N N 18 
+GLN OXT HXT  SING N N 19 
+# 
+loop_
+_pdbx_chem_comp_descriptor.comp_id 
+_pdbx_chem_comp_descriptor.type 
+_pdbx_chem_comp_descriptor.program 
+_pdbx_chem_comp_descriptor.program_version 
+_pdbx_chem_comp_descriptor.descriptor 
+GLN SMILES           ACDLabs              10.04 "O=C(N)CCC(N)C(=O)O"                                                              
+GLN SMILES_CANONICAL CACTVS               3.341 "N[C@@H](CCC(N)=O)C(O)=O"                                                         
+GLN SMILES           CACTVS               3.341 "N[CH](CCC(N)=O)C(O)=O"                                                           
+GLN SMILES_CANONICAL "OpenEye OEToolkits" 1.5.0 "C(CC(=O)N)[C@@H](C(=O)O)N"                                                       
+GLN SMILES           "OpenEye OEToolkits" 1.5.0 "C(CC(=O)N)C(C(=O)O)N"                                                            
+GLN InChI            InChI                1.03  "InChI=1S/C5H10N2O3/c6-3(5(9)10)1-2-4(7)8/h3H,1-2,6H2,(H2,7,8)(H,9,10)/t3-/m0/s1" 
+GLN InChIKey         InChI                1.03  ZDXPYRJPNDTMRX-VKHMYHEASA-N                                                       
+# 
+loop_
+_pdbx_chem_comp_identifier.comp_id 
+_pdbx_chem_comp_identifier.type 
+_pdbx_chem_comp_identifier.program 
+_pdbx_chem_comp_identifier.program_version 
+_pdbx_chem_comp_identifier.identifier 
+GLN "SYSTEMATIC NAME" ACDLabs              10.04 L-glutamine                             
+GLN "SYSTEMATIC NAME" "OpenEye OEToolkits" 1.5.0 "(2S)-2,5-diamino-5-oxo-pentanoic acid" 
+# 
+loop_
+_pdbx_chem_comp_audit.comp_id 
+_pdbx_chem_comp_audit.action_type 
+_pdbx_chem_comp_audit.date 
+_pdbx_chem_comp_audit.processing_site 
+GLN "Create component"  1999-07-08 EBI  
+GLN "Modify descriptor" 2011-06-04 RCSB 
+GLN "Modify backbone"   2023-11-03 PDBE 
+GLN "Modify PCM"        2024-09-27 PDBE 
+# 
+_pdbx_chem_comp_pcm.pcm_id                             1 
+_pdbx_chem_comp_pcm.comp_id                            GLN 
+_pdbx_chem_comp_pcm.modified_residue_id                CYS 
+_pdbx_chem_comp_pcm.type                               Glutaminylation 
+_pdbx_chem_comp_pcm.category                           "Amino acid" 
+_pdbx_chem_comp_pcm.position                           "Amino-acid side chain" 
+_pdbx_chem_comp_pcm.polypeptide_position               "Any position" 
+_pdbx_chem_comp_pcm.comp_id_linking_atom               CD 
+_pdbx_chem_comp_pcm.modified_residue_id_linking_atom   SG 
+_pdbx_chem_comp_pcm.uniprot_specific_ptm_accession     ? 
+_pdbx_chem_comp_pcm.uniprot_generic_ptm_accession      ? 
+# 

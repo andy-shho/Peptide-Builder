@@ -1,0 +1,186 @@
+data_DA
+# 
+_chem_comp.id                                    DA 
+_chem_comp.name                                  "2'-DEOXYADENOSINE-5'-MONOPHOSPHATE" 
+_chem_comp.type                                  "DNA LINKING" 
+_chem_comp.pdbx_type                             ATOMN 
+_chem_comp.formula                               "C10 H14 N5 O6 P" 
+_chem_comp.mon_nstd_parent_comp_id               ? 
+_chem_comp.pdbx_synonyms                         ? 
+_chem_comp.pdbx_formal_charge                    0 
+_chem_comp.pdbx_initial_date                     2001-01-25 
+_chem_comp.pdbx_modified_date                    2024-09-27 
+_chem_comp.pdbx_ambiguous_flag                   N 
+_chem_comp.pdbx_release_status                   REL 
+_chem_comp.pdbx_replaced_by                      ? 
+_chem_comp.pdbx_replaces                         ? 
+_chem_comp.formula_weight                        331.222 
+_chem_comp.one_letter_code                       A 
+_chem_comp.three_letter_code                     DA 
+_chem_comp.pdbx_model_coordinates_details        ? 
+_chem_comp.pdbx_model_coordinates_missing_flag   N 
+_chem_comp.pdbx_ideal_coordinates_details        ? 
+_chem_comp.pdbx_ideal_coordinates_missing_flag   N 
+_chem_comp.pdbx_model_coordinates_db_code        ? 
+_chem_comp.pdbx_subcomponent_list                ? 
+_chem_comp.pdbx_processing_site                  RCSB 
+_chem_comp.pdbx_pcm                              Y 
+# 
+loop_
+_chem_comp_atom.comp_id 
+_chem_comp_atom.atom_id 
+_chem_comp_atom.alt_atom_id 
+_chem_comp_atom.type_symbol 
+_chem_comp_atom.charge 
+_chem_comp_atom.pdbx_align 
+_chem_comp_atom.pdbx_aromatic_flag 
+_chem_comp_atom.pdbx_leaving_atom_flag 
+_chem_comp_atom.pdbx_stereo_config 
+_chem_comp_atom.pdbx_backbone_atom_flag 
+_chem_comp_atom.pdbx_n_terminal_atom_flag 
+_chem_comp_atom.pdbx_c_terminal_atom_flag 
+_chem_comp_atom.model_Cartn_x 
+_chem_comp_atom.model_Cartn_y 
+_chem_comp_atom.model_Cartn_z 
+_chem_comp_atom.pdbx_model_Cartn_x_ideal 
+_chem_comp_atom.pdbx_model_Cartn_y_ideal 
+_chem_comp_atom.pdbx_model_Cartn_z_ideal 
+_chem_comp_atom.pdbx_component_atom_id 
+_chem_comp_atom.pdbx_component_comp_id 
+_chem_comp_atom.pdbx_ordinal 
+DA OP3 O3P O 0 1 N Y N N N N -4.87645 -3.04001 -0.72828 -4.87645 -3.04001 -0.72828 OP3 DA 1
+DA P P P 0 1 N N N N N N -4.43505 -1.49196 -0.70211 -4.43505 -1.49196 -0.70211 P DA 2
+DA OP1 O1P O 0 1 N N N N N N -4.10591 -1.05009 -2.07546 -4.10591 -1.05009 -2.07546 OP1 DA 3
+DA OP2 O2P O 0 1 N N N N N N -5.64503 -0.60006 -0.12633 -5.64503 -0.60006 -0.12633 OP2 DA 4
+DA "O5'" O5* O 0 1 N N N N N N -3.14297 -1.31822 0.24164 -3.14297 -1.31822 0.24164 "O5'" DA 5
+DA "C5'" C5* C 0 1 N N N N N N -2.80151 0.06837 0.22381 -2.80151 0.06837 0.22381 "C5'" DA 6
+DA "C4'" C4* C 0 1 N N R N N N -1.57419 0.30370 1.10614 -1.57419 0.30370 1.10614 "C4'" DA 7
+DA "O4'" O4* O 0 1 N N N N N N -0.41090 -0.35328 0.55256 -0.41090 -0.35328 0.55256 "O4'" DA 8
+DA "C3'" C3* C 0 1 N N S N N N -1.18058 1.80228 1.10614 -1.18058 1.80228 1.10614 "C3'" DA 9
+DA "O3'" O3* O 0 1 N N N N N N -1.91369 2.52335 2.09821 -1.91369 2.52335 2.09821 "O3'" DA 10
+DA "C2'" C2* C 0 1 N N N N N N 0.32253 1.74213 1.46646 0.32253 1.74213 1.46646 "C2'" DA 11
+DA "C1'" C1* C 0 1 N N R N N N 0.73997 0.30370 1.10614 0.73997 0.30370 1.10614 "C1'" DA 12
+DA N9 N9 N 0 1 Y N N N N N 1.82070 0.33162 0.11667 1.82070 0.33162 0.11667 N9 DA 13
+DA C8 C8 C 0 1 Y N N N N N 1.67354 0.33886 -1.23720 1.67354 0.33886 -1.23720 C8 DA 14
+DA N7 N7 N 0 1 Y N N N N N 2.84114 0.36398 -1.81102 2.84114 0.36398 -1.81102 N7 DA 15
+DA C5 C5 C 0 1 Y N N N N N 3.80953 0.38009 -0.86387 3.80953 0.38009 -0.86387 C5 DA 16
+DA C6 C6 C 0 1 Y N N N N N 5.21389 0.39911 -0.88594 5.21389 0.39911 -0.88594 C6 DA 17
+DA N6 N6 N 0 1 N N N N N N 5.90287 0.42009 -2.08599 5.90287 0.42009 -2.08599 N6 DA 18
+DA N1 N1 N 0 1 Y N N N N N 5.86576 0.40197 0.27235 5.86576 0.40197 0.27235 N1 DA 19
+DA C2 C2 C 0 1 Y N N N N N 5.21709 0.38124 1.42092 5.21709 0.38124 1.42092 C2 DA 20
+DA N3 N3 N 0 1 Y N N N N N 3.90325 0.35740 1.49099 3.90325 0.35740 1.49099 N3 DA 21
+DA C4 C4 C 0 1 Y N N N N N 3.16566 0.35265 0.38498 3.16566 0.35265 0.38498 C4 DA 22
+DA HOP3 3HOP H 0 0 N N N N N N -5.65164 -3.09992 -1.30370 -5.65164 -3.09992 -1.30370 HOP3 DA 23
+DA HOP2 2HOP H 0 0 N N N N N N -5.82733 -0.91917 0.76714 -5.82733 -0.91917 0.76714 HOP2 DA 24
+DA "H5'" 1H5* H 0 1 N N N N N N -3.63990 0.65330 0.60317 -3.63990 0.65330 0.60317 "H5'" DA 25
+DA "H5''" 2H5* H 0 0 N N N N N N -2.57850 0.37444 -0.79746 -2.57850 0.37444 -0.79746 "H5''" DA 26
+DA "H4'" H4* H 0 1 N N N N N N -1.76140 -0.04377 2.12162 -1.76140 -0.04377 2.12162 "H4'" DA 27
+DA "H3'" H3* H 0 1 N N N N N N -1.32790 2.24235 0.11998 -1.32790 2.24235 0.11998 "H3'" DA 28
+DA "HO3'" H3T H 0 0 N Y N N N N -1.55903 3.42211 2.11054 -1.55903 3.42211 2.11054 "HO3'" DA 29
+DA "H2'" 1H2* H 0 1 N N N N N N 0.46835 1.92818 2.52979 0.46835 1.92818 2.52979 "H2'" DA 30
+DA "H2''" 2H2* H 0 0 N N N N N N 0.88584 2.46285 0.87204 0.88584 2.46285 0.87204 "H2''" DA 31
+DA "H1'" H1* H 0 1 N N N N N N 1.07201 -0.22088 2.00220 1.07201 -0.22088 2.00220 "H1'" DA 32
+DA H8 H8 H 0 1 N N N N N N 0.72783 0.32604 -1.75762 0.72783 0.32604 -1.75762 H8 DA 33
+DA H61 1H6 H 0 1 N N N N N N 6.87259 0.43774 -2.08846 6.87259 0.43774 -2.08846 H61 DA 34
+DA H62 2H6 H 0 1 N N N N N N 5.41545 0.41435 -2.92524 5.41545 0.41435 -2.92524 H62 DA 35
+DA H2 H2 H 0 1 N N N N N N 5.78624 0.38345 2.33899 5.78624 0.38345 2.33899 H2 DA 36
+# 
+loop_
+_chem_comp_bond.comp_id 
+_chem_comp_bond.atom_id_1 
+_chem_comp_bond.atom_id_2 
+_chem_comp_bond.value_order 
+_chem_comp_bond.pdbx_aromatic_flag 
+_chem_comp_bond.pdbx_stereo_config 
+_chem_comp_bond.pdbx_ordinal 
+DA OP3   P      SING N N 1  
+DA OP3   HOP3   SING N N 2  
+DA P     OP1    DOUB N N 3  
+DA P     OP2    SING N N 4  
+DA P     "O5'"  SING N N 5  
+DA OP2   HOP2   SING N N 6  
+DA "O5'" "C5'"  SING N N 7  
+DA "C5'" "C4'"  SING N N 8  
+DA "C5'" "H5'"  SING N N 9  
+DA "C5'" "H5''" SING N N 10 
+DA "C4'" "O4'"  SING N N 11 
+DA "C4'" "C3'"  SING N N 12 
+DA "C4'" "H4'"  SING N N 13 
+DA "O4'" "C1'"  SING N N 14 
+DA "C3'" "O3'"  SING N N 15 
+DA "C3'" "C2'"  SING N N 16 
+DA "C3'" "H3'"  SING N N 17 
+DA "O3'" "HO3'" SING N N 18 
+DA "C2'" "C1'"  SING N N 19 
+DA "C2'" "H2'"  SING N N 20 
+DA "C2'" "H2''" SING N N 21 
+DA "C1'" N9     SING N N 22 
+DA "C1'" "H1'"  SING N N 23 
+DA N9    C8     SING Y N 24 
+DA N9    C4     SING Y N 25 
+DA C8    N7     DOUB Y N 26 
+DA C8    H8     SING N N 27 
+DA N7    C5     SING Y N 28 
+DA C5    C6     SING Y N 29 
+DA C5    C4     DOUB Y N 30 
+DA C6    N6     SING N N 31 
+DA C6    N1     DOUB Y N 32 
+DA N6    H61    SING N N 33 
+DA N6    H62    SING N N 34 
+DA N1    C2     SING Y N 35 
+DA C2    N3     DOUB Y N 36 
+DA C2    H2     SING N N 37 
+DA N3    C4     SING Y N 38 
+# 
+loop_
+_pdbx_chem_comp_descriptor.comp_id 
+_pdbx_chem_comp_descriptor.type 
+_pdbx_chem_comp_descriptor.program 
+_pdbx_chem_comp_descriptor.program_version 
+_pdbx_chem_comp_descriptor.descriptor 
+DA SMILES           ACDLabs              10.04 "O=P(O)(O)OCC3OC(n2cnc1c(ncnc12)N)CC3O"                                                                                                          
+DA SMILES_CANONICAL CACTVS               3.341 "Nc1ncnc2n(cnc12)[C@H]3C[C@H](O)[C@@H](CO[P](O)(O)=O)O3"                                                                                         
+DA SMILES           CACTVS               3.341 "Nc1ncnc2n(cnc12)[CH]3C[CH](O)[CH](CO[P](O)(O)=O)O3"                                                                                             
+DA SMILES_CANONICAL "OpenEye OEToolkits" 1.5.0 "c1nc(c2c(n1)n(cn2)[C@H]3C[C@@H]([C@H](O3)COP(=O)(O)O)O)N"                                                                                       
+DA SMILES           "OpenEye OEToolkits" 1.5.0 "c1nc(c2c(n1)n(cn2)C3CC(C(O3)COP(=O)(O)O)O)N"                                                                                                    
+DA InChI            InChI                1.03  "InChI=1S/C10H14N5O6P/c11-9-8-10(13-3-12-9)15(4-14-8)7-1-5(16)6(21-7)2-20-22(17,18)19/h3-7,16H,1-2H2,(H2,11,12,13)(H2,17,18,19)/t5-,6+,7+/m0/s1" 
+DA InChIKey         InChI                1.03  KHWCHTKSEGGWEX-RRKCRQDMSA-N                                                                                                                      
+# 
+loop_
+_pdbx_chem_comp_identifier.comp_id 
+_pdbx_chem_comp_identifier.type 
+_pdbx_chem_comp_identifier.program 
+_pdbx_chem_comp_identifier.program_version 
+_pdbx_chem_comp_identifier.identifier 
+DA "SYSTEMATIC NAME" ACDLabs              10.04 
+;2'-deoxy-5'-adenylic acid
+;
+DA "SYSTEMATIC NAME" "OpenEye OEToolkits" 1.5.0 "[(2R,3S,5R)-5-(6-aminopurin-9-yl)-3-hydroxy-oxolan-2-yl]methyl dihydrogen phosphate" 
+# 
+loop_
+_pdbx_chem_comp_audit.comp_id 
+_pdbx_chem_comp_audit.action_type 
+_pdbx_chem_comp_audit.date 
+_pdbx_chem_comp_audit.processing_site 
+DA "Create component"  2001-01-25 RCSB 
+DA "Modify descriptor" 2011-06-04 RCSB 
+DA "Modify PCM"        2024-09-27 PDBE 
+# 
+loop_
+_pdbx_chem_comp_pcm.pcm_id 
+_pdbx_chem_comp_pcm.comp_id 
+_pdbx_chem_comp_pcm.modified_residue_id 
+_pdbx_chem_comp_pcm.type 
+_pdbx_chem_comp_pcm.category 
+_pdbx_chem_comp_pcm.position 
+_pdbx_chem_comp_pcm.polypeptide_position 
+_pdbx_chem_comp_pcm.comp_id_linking_atom 
+_pdbx_chem_comp_pcm.modified_residue_id_linking_atom 
+_pdbx_chem_comp_pcm.uniprot_specific_ptm_accession 
+_pdbx_chem_comp_pcm.uniprot_generic_ptm_accession 
+1 DA PTR None "Covalent chemical modification" "Amino-acid side chain" "Any position" "C5'" O1P ? ? 
+2 DA PTR None "Covalent chemical modification" "Amino-acid side chain" "Any position" "C5'" O3P ? ? 
+3 DA PTR None "Covalent chemical modification" "Amino-acid side chain" "Any position" "O3'" P   ? ? 
+4 DA SER None "Covalent chemical modification" "Amino-acid side chain" "Any position" P     OG  ? ? 
+5 DA TYR None "Covalent chemical modification" "Amino-acid side chain" "Any position" P     OH  ? ? 
+# 

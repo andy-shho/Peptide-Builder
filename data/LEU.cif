@@ -1,0 +1,148 @@
+data_LEU
+# 
+_chem_comp.id                                    LEU 
+_chem_comp.name                                  LEUCINE 
+_chem_comp.type                                  "L-PEPTIDE LINKING" 
+_chem_comp.pdbx_type                             ATOMP 
+_chem_comp.formula                               "C6 H13 N O2" 
+_chem_comp.mon_nstd_parent_comp_id               ? 
+_chem_comp.pdbx_synonyms                         ? 
+_chem_comp.pdbx_formal_charge                    0 
+_chem_comp.pdbx_initial_date                     1999-07-08 
+_chem_comp.pdbx_modified_date                    2024-09-27 
+_chem_comp.pdbx_ambiguous_flag                   N 
+_chem_comp.pdbx_release_status                   REL 
+_chem_comp.pdbx_replaced_by                      ? 
+_chem_comp.pdbx_replaces                         ? 
+_chem_comp.formula_weight                        131.173 
+_chem_comp.one_letter_code                       L 
+_chem_comp.three_letter_code                     LEU 
+_chem_comp.pdbx_model_coordinates_details        ? 
+_chem_comp.pdbx_model_coordinates_missing_flag   N 
+_chem_comp.pdbx_ideal_coordinates_details        ? 
+_chem_comp.pdbx_ideal_coordinates_missing_flag   N 
+_chem_comp.pdbx_model_coordinates_db_code        ? 
+_chem_comp.pdbx_subcomponent_list                ? 
+_chem_comp.pdbx_processing_site                  EBI 
+_chem_comp.pdbx_pcm                              Y 
+# 
+loop_
+_chem_comp_atom.comp_id 
+_chem_comp_atom.atom_id 
+_chem_comp_atom.alt_atom_id 
+_chem_comp_atom.type_symbol 
+_chem_comp_atom.charge 
+_chem_comp_atom.pdbx_align 
+_chem_comp_atom.pdbx_aromatic_flag 
+_chem_comp_atom.pdbx_leaving_atom_flag 
+_chem_comp_atom.pdbx_stereo_config 
+_chem_comp_atom.pdbx_backbone_atom_flag 
+_chem_comp_atom.pdbx_n_terminal_atom_flag 
+_chem_comp_atom.pdbx_c_terminal_atom_flag 
+_chem_comp_atom.model_Cartn_x 
+_chem_comp_atom.model_Cartn_y 
+_chem_comp_atom.model_Cartn_z 
+_chem_comp_atom.pdbx_model_Cartn_x_ideal 
+_chem_comp_atom.pdbx_model_Cartn_y_ideal 
+_chem_comp_atom.pdbx_model_Cartn_z_ideal 
+_chem_comp_atom.pdbx_component_atom_id 
+_chem_comp_atom.pdbx_component_comp_id 
+_chem_comp_atom.pdbx_ordinal 
+LEU N N N 0 1 N N N Y Y N -0.26201 1.71940 0.53970 -0.26201 1.71940 0.53970 N LEU 1
+LEU CA CA C 0 1 N N S Y N N 0.22688 0.33403 0.53970 0.22688 0.33403 0.53970 CA LEU 2
+LEU C C C 0 1 N N N Y N Y 1.73300 0.33403 0.53970 1.73300 0.33403 0.53970 C LEU 3
+LEU O O O 0 1 N N N Y N Y 2.33845 1.23915 0.01754 2.33845 1.23915 0.01754 O LEU 4
+LEU CB CB C 0 1 N N N N N N -0.28323 -0.38486 -0.70920 -0.28323 -0.38486 -0.70920 CB LEU 5
+LEU CG CG C 0 1 N N N N N N -1.81351 -0.38504 -0.70915 -1.81351 -0.38504 -0.70915 CG LEU 6
+LEU CD1 CD1 C 0 1 N N N N N N -2.32419 -1.10423 -1.95930 -2.32419 -1.10423 -1.95930 CD1 LEU 7
+LEU CD2 CD2 C 0 1 N N N N N N -2.32364 -1.10551 0.53868 -2.32364 -1.10551 0.53868 CD2 LEU 8
+LEU OXT OXT O 0 1 N Y N Y N Y 2.40388 -0.67356 1.12031 2.40388 -0.67356 1.12031 OXT LEU 9
+LEU H H H 0 1 N N N Y Y N 0.09678 2.15433 -0.29574 0.09678 2.15433 -0.29574 H LEU 10
+LEU H2 HN2 H 0 1 N Y N Y Y N -1.26405 1.67326 0.43572 -1.26405 1.67326 0.43572 H2 LEU 11
+LEU HA HA H 0 1 N N N Y N N -0.13735 -0.17961 1.42877 -0.13735 -0.17961 1.42877 HA LEU 12
+LEU HB2 1HB H 0 1 N N N N N N 0.07953 -1.41255 -0.71025 0.07953 -1.41255 -0.71025 HB2 LEU 13
+LEU HB3 2HB H 0 1 N N N N N N 0.08042 0.12849 -1.59952 0.08042 0.12849 -1.59952 HB3 LEU 14
+LEU HG HG H 0 1 N N N N N N -2.17561 0.64262 -0.70998 -2.17561 0.64262 -0.70998 HG LEU 15
+LEU HD11 1HD1 H 0 0 N N N N N N -3.41335 -1.10462 -1.95896 -3.41335 -1.10462 -1.95896 HD11 LEU 16
+LEU HD12 2HD1 H 0 0 N N N N N N -1.95964 -0.59060 -2.84932 -1.95964 -0.59060 -2.84932 HD12 LEU 17
+LEU HD13 3HD1 H 0 0 N N N N N N -1.96144 -2.13192 -1.96036 -1.96144 -2.13192 -1.96036 HD13 LEU 18
+LEU HD21 1HD2 H 0 0 N N N N N N -1.96089 -2.13321 0.53762 -1.96089 -2.13321 0.53762 HD21 LEU 19
+LEU HD22 2HD2 H 0 0 N N N N N N -1.96004 -0.59271 1.42898 -1.96004 -0.59271 1.42898 HD22 LEU 20
+LEU HD23 3HD2 H 0 0 N N N N N N -3.41396 -1.10522 0.53860 -3.41396 -1.10522 0.53860 HD23 LEU 21
+LEU HXT HXT H 0 1 N Y N Y N Y 3.37007 -0.67460 1.12052 3.37007 -0.67460 1.12052 HXT LEU 22
+# 
+loop_
+_chem_comp_bond.comp_id 
+_chem_comp_bond.atom_id_1 
+_chem_comp_bond.atom_id_2 
+_chem_comp_bond.value_order 
+_chem_comp_bond.pdbx_aromatic_flag 
+_chem_comp_bond.pdbx_stereo_config 
+_chem_comp_bond.pdbx_ordinal 
+LEU N   CA   SING N N 1  
+LEU N   H    SING N N 2  
+LEU N   H2   SING N N 3  
+LEU CA  C    SING N N 4  
+LEU CA  CB   SING N N 5  
+LEU CA  HA   SING N N 6  
+LEU C   O    DOUB N N 7  
+LEU C   OXT  SING N N 8  
+LEU CB  CG   SING N N 9  
+LEU CB  HB2  SING N N 10 
+LEU CB  HB3  SING N N 11 
+LEU CG  CD1  SING N N 12 
+LEU CG  CD2  SING N N 13 
+LEU CG  HG   SING N N 14 
+LEU CD1 HD11 SING N N 15 
+LEU CD1 HD12 SING N N 16 
+LEU CD1 HD13 SING N N 17 
+LEU CD2 HD21 SING N N 18 
+LEU CD2 HD22 SING N N 19 
+LEU CD2 HD23 SING N N 20 
+LEU OXT HXT  SING N N 21 
+# 
+loop_
+_pdbx_chem_comp_descriptor.comp_id 
+_pdbx_chem_comp_descriptor.type 
+_pdbx_chem_comp_descriptor.program 
+_pdbx_chem_comp_descriptor.program_version 
+_pdbx_chem_comp_descriptor.descriptor 
+LEU SMILES           ACDLabs              10.04 "O=C(O)C(N)CC(C)C"                                                         
+LEU SMILES_CANONICAL CACTVS               3.341 "CC(C)C[C@H](N)C(O)=O"                                                     
+LEU SMILES           CACTVS               3.341 "CC(C)C[CH](N)C(O)=O"                                                      
+LEU SMILES_CANONICAL "OpenEye OEToolkits" 1.5.0 "CC(C)C[C@@H](C(=O)O)N"                                                    
+LEU SMILES           "OpenEye OEToolkits" 1.5.0 "CC(C)CC(C(=O)O)N"                                                         
+LEU InChI            InChI                1.03  "InChI=1S/C6H13NO2/c1-4(2)3-5(7)6(8)9/h4-5H,3,7H2,1-2H3,(H,8,9)/t5-/m0/s1" 
+LEU InChIKey         InChI                1.03  ROHFNLRQFUQHCH-YFKPBYRVSA-N                                                
+# 
+loop_
+_pdbx_chem_comp_identifier.comp_id 
+_pdbx_chem_comp_identifier.type 
+_pdbx_chem_comp_identifier.program 
+_pdbx_chem_comp_identifier.program_version 
+_pdbx_chem_comp_identifier.identifier 
+LEU "SYSTEMATIC NAME" ACDLabs              10.04 L-leucine                              
+LEU "SYSTEMATIC NAME" "OpenEye OEToolkits" 1.5.0 "(2S)-2-amino-4-methyl-pentanoic acid" 
+# 
+loop_
+_pdbx_chem_comp_audit.comp_id 
+_pdbx_chem_comp_audit.action_type 
+_pdbx_chem_comp_audit.date 
+_pdbx_chem_comp_audit.processing_site 
+LEU "Create component"  1999-07-08 EBI  
+LEU "Modify descriptor" 2011-06-04 RCSB 
+LEU "Modify backbone"   2023-11-03 PDBE 
+LEU "Modify PCM"        2024-09-27 PDBE 
+# 
+_pdbx_chem_comp_pcm.pcm_id                             1 
+_pdbx_chem_comp_pcm.comp_id                            LEU 
+_pdbx_chem_comp_pcm.modified_residue_id                LYS 
+_pdbx_chem_comp_pcm.type                               Leucylation 
+_pdbx_chem_comp_pcm.category                           "Amino acid" 
+_pdbx_chem_comp_pcm.position                           "Amino-acid side chain" 
+_pdbx_chem_comp_pcm.polypeptide_position               "Any position" 
+_pdbx_chem_comp_pcm.comp_id_linking_atom               C 
+_pdbx_chem_comp_pcm.modified_residue_id_linking_atom   NZ 
+_pdbx_chem_comp_pcm.uniprot_specific_ptm_accession     ? 
+_pdbx_chem_comp_pcm.uniprot_generic_ptm_accession      ? 
+# 

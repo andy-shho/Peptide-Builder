@@ -1,0 +1,132 @@
+data_SER
+# 
+_chem_comp.id                                    SER 
+_chem_comp.name                                  SERINE 
+_chem_comp.type                                  "L-PEPTIDE LINKING" 
+_chem_comp.pdbx_type                             ATOMP 
+_chem_comp.formula                               "C3 H7 N O3" 
+_chem_comp.mon_nstd_parent_comp_id               ? 
+_chem_comp.pdbx_synonyms                         ? 
+_chem_comp.pdbx_formal_charge                    0 
+_chem_comp.pdbx_initial_date                     1999-07-08 
+_chem_comp.pdbx_modified_date                    2024-09-27 
+_chem_comp.pdbx_ambiguous_flag                   N 
+_chem_comp.pdbx_release_status                   REL 
+_chem_comp.pdbx_replaced_by                      ? 
+_chem_comp.pdbx_replaces                         SEG 
+_chem_comp.formula_weight                        105.093 
+_chem_comp.one_letter_code                       S 
+_chem_comp.three_letter_code                     SER 
+_chem_comp.pdbx_model_coordinates_details        ? 
+_chem_comp.pdbx_model_coordinates_missing_flag   N 
+_chem_comp.pdbx_ideal_coordinates_details        ? 
+_chem_comp.pdbx_ideal_coordinates_missing_flag   N 
+_chem_comp.pdbx_model_coordinates_db_code        ? 
+_chem_comp.pdbx_subcomponent_list                ? 
+_chem_comp.pdbx_processing_site                  RCSB 
+_chem_comp.pdbx_pcm                              Y 
+# 
+loop_
+_chem_comp_atom.comp_id 
+_chem_comp_atom.atom_id 
+_chem_comp_atom.alt_atom_id 
+_chem_comp_atom.type_symbol 
+_chem_comp_atom.charge 
+_chem_comp_atom.pdbx_align 
+_chem_comp_atom.pdbx_aromatic_flag 
+_chem_comp_atom.pdbx_leaving_atom_flag 
+_chem_comp_atom.pdbx_stereo_config 
+_chem_comp_atom.pdbx_backbone_atom_flag 
+_chem_comp_atom.pdbx_n_terminal_atom_flag 
+_chem_comp_atom.pdbx_c_terminal_atom_flag 
+_chem_comp_atom.model_Cartn_x 
+_chem_comp_atom.model_Cartn_y 
+_chem_comp_atom.model_Cartn_z 
+_chem_comp_atom.pdbx_model_Cartn_x_ideal 
+_chem_comp_atom.pdbx_model_Cartn_y_ideal 
+_chem_comp_atom.pdbx_model_Cartn_z_ideal 
+_chem_comp_atom.pdbx_component_atom_id 
+_chem_comp_atom.pdbx_component_comp_id 
+_chem_comp_atom.pdbx_ordinal 
+SER N N N 0 1 N N N Y Y N -0.88215 1.42244 0.37077 -0.88215 1.42244 0.37077 N SER 1
+SER CA CA C 0 1 N N S Y N N -0.39336 0.03715 0.37077 -0.39336 0.03715 0.37077 CA SER 2
+SER C C C 0 1 N N N Y N Y 1.11338 0.03715 0.37077 1.11338 0.03715 0.37077 C SER 3
+SER O O O 0 1 N N N Y N Y 1.71770 0.94187 -0.15170 1.71770 0.94187 -0.15170 O SER 4
+SER CB CB C 0 1 N N N N N N -0.90380 -0.68331 -0.87716 -0.90380 -0.68331 -0.87716 CB SER 5
+SER OG OG O 0 1 N N N N N N -2.33212 -0.68230 -0.87791 -2.33212 -0.68230 -0.87791 OG SER 6
+SER OXT OXT O 0 1 N Y N Y N Y 1.78337 -0.96962 0.95231 1.78337 -0.96962 0.95231 OXT SER 7
+SER H H H 0 1 N N N Y Y N -0.52308 1.85661 -0.46515 -0.52308 1.85661 -0.46515 H SER 8
+SER H2 HN2 H 0 1 N Y N Y Y N -1.88473 1.37592 0.26550 -1.88473 1.37592 0.26550 H2 SER 9
+SER HA HA H 0 1 N N N Y N N -0.75681 -0.47544 1.26106 -0.75681 -0.47544 1.26106 HA SER 10
+SER HB2 1HB H 0 1 N N N N N N -0.53950 -0.16965 -1.76707 -0.53950 -0.16965 -1.76707 HB2 SER 11
+SER HB3 2HB H 0 1 N N N N N N -0.54123 -1.71084 -0.87737 -0.54123 -1.71084 -0.87737 HB3 SER 12
+SER HG HG H 0 1 N N N N N N -2.61175 -1.14558 -1.67928 -2.61175 -1.14558 -1.67928 HG SER 13
+SER HXT HXT H 0 1 N Y N Y N Y 2.75076 -0.97042 0.95281 2.75076 -0.97042 0.95281 HXT SER 14
+# 
+loop_
+_chem_comp_bond.comp_id 
+_chem_comp_bond.atom_id_1 
+_chem_comp_bond.atom_id_2 
+_chem_comp_bond.value_order 
+_chem_comp_bond.pdbx_aromatic_flag 
+_chem_comp_bond.pdbx_stereo_config 
+_chem_comp_bond.pdbx_ordinal 
+SER N   CA  SING N N 1  
+SER N   H   SING N N 2  
+SER N   H2  SING N N 3  
+SER CA  C   SING N N 4  
+SER CA  CB  SING N N 5  
+SER CA  HA  SING N N 6  
+SER C   O   DOUB N N 7  
+SER C   OXT SING N N 8  
+SER CB  OG  SING N N 9  
+SER CB  HB2 SING N N 10 
+SER CB  HB3 SING N N 11 
+SER OG  HG  SING N N 12 
+SER OXT HXT SING N N 13 
+# 
+loop_
+_pdbx_chem_comp_descriptor.comp_id 
+_pdbx_chem_comp_descriptor.type 
+_pdbx_chem_comp_descriptor.program 
+_pdbx_chem_comp_descriptor.program_version 
+_pdbx_chem_comp_descriptor.descriptor 
+SER SMILES           ACDLabs              10.04 "O=C(O)C(N)CO"                                                  
+SER SMILES_CANONICAL CACTVS               3.341 "N[C@@H](CO)C(O)=O"                                             
+SER SMILES           CACTVS               3.341 "N[CH](CO)C(O)=O"                                               
+SER SMILES_CANONICAL "OpenEye OEToolkits" 1.5.0 "C([C@@H](C(=O)O)N)O"                                           
+SER SMILES           "OpenEye OEToolkits" 1.5.0 "C(C(C(=O)O)N)O"                                                
+SER InChI            InChI                1.03  "InChI=1S/C3H7NO3/c4-2(1-5)3(6)7/h2,5H,1,4H2,(H,6,7)/t2-/m0/s1" 
+SER InChIKey         InChI                1.03  MTCFGRXMJLQNBG-REOHCLBHSA-N                                     
+# 
+loop_
+_pdbx_chem_comp_identifier.comp_id 
+_pdbx_chem_comp_identifier.type 
+_pdbx_chem_comp_identifier.program 
+_pdbx_chem_comp_identifier.program_version 
+_pdbx_chem_comp_identifier.identifier 
+SER "SYSTEMATIC NAME" ACDLabs              10.04 L-serine                                
+SER "SYSTEMATIC NAME" "OpenEye OEToolkits" 1.5.0 "(2S)-2-amino-3-hydroxy-propanoic acid" 
+# 
+loop_
+_pdbx_chem_comp_audit.comp_id 
+_pdbx_chem_comp_audit.action_type 
+_pdbx_chem_comp_audit.date 
+_pdbx_chem_comp_audit.processing_site 
+SER "Create component"  1999-07-08 RCSB 
+SER "Modify descriptor" 2011-06-04 RCSB 
+SER "Modify backbone"   2023-11-03 PDBE 
+SER "Modify PCM"        2024-09-27 PDBE 
+# 
+_pdbx_chem_comp_pcm.pcm_id                             1 
+_pdbx_chem_comp_pcm.comp_id                            SER 
+_pdbx_chem_comp_pcm.modified_residue_id                LLP 
+_pdbx_chem_comp_pcm.type                               Serylation 
+_pdbx_chem_comp_pcm.category                           "Amino acid" 
+_pdbx_chem_comp_pcm.position                           "Amino-acid side chain" 
+_pdbx_chem_comp_pcm.polypeptide_position               "Any position" 
+_pdbx_chem_comp_pcm.comp_id_linking_atom               N 
+_pdbx_chem_comp_pcm.modified_residue_id_linking_atom   "C4'" 
+_pdbx_chem_comp_pcm.uniprot_specific_ptm_accession     ? 
+_pdbx_chem_comp_pcm.uniprot_generic_ptm_accession      ? 
+# 

@@ -12,3 +12,6 @@ This is a Python API that builds a peptide chain from one-letter-sequences of am
 3. Visualize the melittin peptide with
     ```make visualize```
 4. If you want to visualize a different peptide, you can reference the demo.py file to see the process and access different attributes and properties of the atoms, residues, and peptide.
+
+
+![Melittin](melittin.png)
